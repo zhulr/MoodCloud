@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="line_color">#C9C9C9</color>
-    <color name="background_dim">#22FFFFFF</color>
+    <color name="background_dim">#66FFFFFF</color>
+    <color name="background_more_dim">#88E0E0E0</color>
 </resources>
