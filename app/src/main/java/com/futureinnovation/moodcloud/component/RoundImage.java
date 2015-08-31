@@ -1,4 +1,4 @@
-package com.futureinnovation.component;
+package com.futureinnovation.moodcloud.component;
 
 import android.content.Context;
 import android.content.res.TypedArray;
